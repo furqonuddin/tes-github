@@ -13,3 +13,8 @@ print('Halo gaes')
 # satus 'M' = modeified
 
 # git log
+# git log --oneline  => check id
+# git checkout <commit id>   ===> kembali ke id tertentu
+# git checkout master  => id terakhir
+
+# git reset <commit id> --hard   ==> kembali ke comit id tetapi setelahnya hilang
