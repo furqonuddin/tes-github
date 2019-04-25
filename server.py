@@ -11,3 +11,5 @@ print('Halo gaes')
 # git commit -m "ini kodepertamaku"
 
 # satus 'M' = modeified
+
+# git log
