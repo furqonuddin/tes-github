@@ -18,3 +18,5 @@ print('Halo gaes')
 # git checkout master  => id terakhir
 
 # git reset <commit id> --hard   ==> kembali ke comit id tetapi setelahnya hilang
+
+# git clone <link>
