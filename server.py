@@ -20,3 +20,4 @@ print('Halo gaes')
 # git reset <commit id> --hard   ==> kembali ke comit id tetapi setelahnya hilang
 
 # git clone <link>
+# coba peruubahan
