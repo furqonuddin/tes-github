@@ -21,3 +21,4 @@ print('Halo gaes')
 
 # git clone <link>
 # coba peruubahan
+# git push origin master    => add to repository github.com
